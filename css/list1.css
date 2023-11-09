@@ -1,0 +1,29 @@
+/*etiqueta {atributs:valor;        } */
+h3
+{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold; /*negreta*/
+    /* width 20px */
+    background-image: url("/imagines/fernando-alonso.jpg");
+}
+
+li
+{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* width 20px */
+    background-color:blueviolet
+}
+
+
+dt
+{
+    color: darkmagenta;
+}
+
+dd
+{
+    color:crimson
+}
